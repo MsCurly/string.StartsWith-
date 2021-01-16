@@ -1,0 +1,7 @@
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.StartsWith()\string.StartsWith()\obj\Debug\string.StartsWith().csprojAssemblyReference.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.StartsWith()\string.StartsWith()\obj\Debug\string.StartsWith().csproj.CoreCompileInputs.cache
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.StartsWith()\string.StartsWith()\bin\Debug\@string.StartsWith__.exe.config
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.StartsWith()\string.StartsWith()\bin\Debug\@string.StartsWith__.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.StartsWith()\string.StartsWith()\bin\Debug\@string.StartsWith__.pdb
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.StartsWith()\string.StartsWith()\obj\Debug\@string.StartsWith__.exe
+C:\Users\zuley\Desktop\Turkcell Geleceği Yazanlar\Ödevler\string.StartsWith()\string.StartsWith()\obj\Debug\@string.StartsWith__.pdb
